@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Pizza Hut Database and Analytics Queries
 
 This project demonstrates how to design and query a relational database for managing and analyzing pizza sales data. It includes table creation scripts, sample queries for retrieving insights, and SQL techniques for business analytics.
@@ -15,8 +15,7 @@ This project demonstrates how to design and query a relational database for mana
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ---
 
