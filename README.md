@@ -55,10 +55,9 @@ Stores information about individual pizzas.
 ```sql
 CREATE TABLE pizzas (
     pizza_id TEXT NOT NULL,
-    name TEXT NOT NULL,
+    pizza_type_id INT NOT NULL,
     size TEXT NOT NULL,
     price DECIMAL(10, 2) NOT NULL,
-    pizza_type_id INT NOT NULL,
     PRIMARY KEY (pizza_id)
 );
 ```
