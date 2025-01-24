@@ -151,7 +151,7 @@ To use this project:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/pizza_sales_sql.git
-   cd pizza-hut-database
+   cd pizza_sales_sql
    ```
 2. Set up the database using your preferred SQL client (e.g., MySQL, PostgreSQL).
 3. Execute the `create_tables.sql` script to create the database and tables.
